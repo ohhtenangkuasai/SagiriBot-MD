@@ -1,4 +1,4 @@
-global.owner = ['6281217779427'] // Put your number here
+global.owner = ['6285775238312'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -21,10 +21,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'SAGIRI-MD'
-global.author = 'By HilmySakti'
+global.packname = 'XrzzZ-MD'
+global.author = 'By ツˣᴿᶻズガx'
 
-global.wm = '© SAGIRI BOT-MD Made With My Love ❤️'
+global.wm = '© XrzzZ BOT-MD Made With My Love ❤️'
 global.media = 'https://telegra.ph/file/770f392987c3e273b99bb.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
